@@ -3,7 +3,7 @@ Discord Rich Presence for Geometry Dash
 
 # How to install
 **Step 1:**\
-Navigate to "https://discord.com/developers/applications"!\
+Navigate to "https://discord.com/developers/applications"! \
 **Step 2:**\
 Click "New Application" and name it "Geometry Dash" and click create!\
 **Step 3:**\
